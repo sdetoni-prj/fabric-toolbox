@@ -1,3 +1,8 @@
+"""
+This code is intended to provide a sample code snippet. 
+Organizations should review and apply best practices before running in production.
+"""
+
 # Import necessary libraries
 from msal import PublicClientApplication
 from msal import ConfidentialClientApplication
